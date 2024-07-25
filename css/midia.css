@@ -1,0 +1,501 @@
+@keyframes text-animation {
+  1% {
+    content: "Designer";
+    width: 1.5%;
+  }
+
+  2% {
+    content: "Designer";
+    width: 3%;
+  }
+
+  3% {
+    content: "Designer";
+    width: 4.5%;
+  }
+
+  4% {
+    content: "Designer";
+    width: 6%;
+  }
+
+  5% {
+    content: "Designer";
+    width: 7.5%;
+  }
+
+  6% {
+    content: "Designer";
+    width: 9%;
+  }
+
+  7% {
+    content: "Designer";
+    width: 10.5%;
+  }
+
+  8% {
+    content: "Designer";
+    width: 13%;
+  }
+
+  9% {
+    content: "Designer";
+    width: 13%;
+  }
+
+  10% {
+    content: "Designer";
+    width: 13%;
+  }
+
+  11% {
+    content: "Designer";
+    width: 13%;
+  }
+
+  12% {
+    content: "Designer";
+    width: 13%;
+  }
+
+  13% {
+    content: "Designer";
+    width: 13%;
+  }
+
+  14% {
+    content: "Designer";
+    width: 10.5%;
+  }
+
+  15% {
+    content: "Designer";
+    width: 9%;
+  }
+
+  16% {
+    content: "Designer";
+    width: 7.5%;
+  }
+
+  17% {
+    content: "Designer";
+    width: 6%;
+  }
+
+  18% {
+    content: "Designer";
+    width: 4.5%;
+  }
+
+  19% {
+    content: "Designer";
+    width: 3%;
+  }
+
+  20% {
+    content: "Developer";
+    width: 4.5%;
+  }
+
+  21% {
+    content: "Developer";
+    width: 6%;
+  }
+
+  22% {
+    content: "Developer";
+    width: 7.5%;
+  }
+
+  23% {
+    content: "Developer";
+    width: 9%;
+  }
+
+  24% {
+    content: "Developer";
+    width: 10.5%;
+  }
+
+  25% {
+    content: "Developer";
+    width: 12%;
+  }
+
+  26% {
+    content: "Developer";
+    width: 15%;
+  }
+
+  27% {
+    content: "Developer";
+    width: 15%;
+  }
+
+  28% {
+    content: "Developer";
+    width: 15%;
+  }
+
+  29% {
+    content: "Developer";
+    width: 15%;
+  }
+
+  30% {
+    content: "Developer";
+    width: 15%;
+  }
+
+  31% {
+    content: "Developer";
+    width: 15%;
+  }
+
+  32% {
+    content: "Developer";
+    width: 15%;
+  }
+
+  33% {
+    content: "Developer";
+    width: 12%;
+  }
+
+  34% {
+    content: "Developer";
+    width: 10.5%;
+  }
+
+  35% {
+    content: "Developer";
+    width: 9%;
+  }
+
+  36% {
+    content: "Developer";
+    width: 7.5%;
+  }
+
+  37% {
+    content: "Developer";
+    width: 6%;
+  }
+
+  38% {
+    content: "Developer";
+    width: 4.5%;
+  }
+
+  39% {
+    content: "Developer";
+    width: 3%;
+  }
+
+  40% {
+    content: "Developer";
+    width: 1.5%;
+  }
+
+  41% {
+    content: "Developer";
+    width: 1.5%;
+  }
+
+  42% {
+    content: "Developer";
+    width: 0%;
+  }
+
+  43% {
+    content: "Freelancer";
+    width: 1.5%;
+  }
+
+  44% {
+    content: "Freelancer";
+    width: 3%;
+  }
+
+  45% {
+    content: "Freelancer";
+    width: 4.5%;
+  }
+
+  46% {
+    content: "Freelancer";
+    width: 6%;
+  }
+
+  47% {
+    content: "Freelancer";
+    width: 7.5%;
+  }
+
+  48% {
+    content: "Freelancer";
+    width: 9%;
+  }
+
+  49% {
+    content: "Freelancer";
+    width: 10.5%;
+  }
+
+  50% {
+    content: "Freelancer";
+    width: 12%;
+  }
+
+  51% {
+    content: "Freelancer";
+    width: 13.5%;
+  }
+
+  52% {
+    content: "Freelancer";
+    width: 15%;
+  }
+
+  53% {
+    content: "Freelancer";
+    width: 15%;
+  }
+
+  54% {
+    content: "Freelancer";
+    width: 15%;
+  }
+
+  55% {
+    content: "Freelancer";
+    width: 15%;
+  }
+
+  56% {
+    content: "Freelancer";
+    width: 15%;
+  }
+
+  57% {
+    content: "Freelancer";
+    width: 15%;
+  }
+
+  58% {
+    content: "Freelancer";
+    width: 13.5%;
+  }
+
+  59% {
+    content: "Freelancer";
+    width: 12%;
+  }
+
+  60% {
+    content: "Freelancer";
+    width: 10.5%;
+  }
+
+  61% {
+    content: "Freelancer";
+    width: 9%;
+  }
+
+  62% {
+    content: "Freelancer";
+    width: 7.5%;
+  }
+
+  63% {
+    content: "Freelancer";
+    width: 6%;
+  }
+
+  64% {
+    content: "Freelancer";
+    width: 4.5%;
+  }
+
+  65% {
+    content: "Freelancer";
+    width: 3%;
+  }
+
+  66% {
+    content: "Freelancer";
+    width: 1.5%;
+  }
+
+  67% {
+    content: "Freelancer";
+    width: 1.5%;
+  }
+
+  68% {
+    content: "Freelancer";
+    width: 0%;
+  }
+
+  69% {
+    content: "Photographer";
+    width: 1.5%;
+  }
+
+  70% {
+    content: 'Photographer';
+    width: 3%;
+  }
+
+  71% {
+    content: 'Photographer';
+    width: 4.5%;
+  }
+
+  72% {
+    content: 'Photographer';
+    width: 6%;
+  }
+
+  73% {
+    content: 'Photographer';
+    width: 7.5%;
+  }
+
+  74% {
+    content: 'Photographer';
+    width: 9%;
+  }
+
+  75% {
+    content: 'Photographer';
+    width: 10.5%;
+  }
+
+  76% {
+    content: 'Photographer';
+    width: 12%;
+  }
+
+  77% {
+    content: 'Photographer';
+    width: 13.5%;
+  }
+
+  78% {
+    content: 'Photographer';
+    width: 15.5%;
+  }
+
+  79% {
+    content: 'Photographer';
+    width: 18%;
+  }
+
+  80% {
+    content: 'Photographer';
+    width: 20%;
+  }
+
+  81% {
+    content: 'Photographer';
+    width: 20%;
+  }
+
+  82% {
+    content: 'Photographer';
+    width: 20%;
+  }
+
+  83% {
+    content: 'Photographer';
+    width: 20%;
+  }
+
+  84% {
+    content: 'Photographer';
+    width: 20%;
+  }
+
+  85% {
+    content: 'Photographer';
+    width: 20%;
+  }
+
+  86% {
+    content: 'Photographer';
+    width: 18%;
+  }
+
+  87% {
+    content: 'Photographer';
+    width: 15.5%;
+  }
+
+  88% {
+    content: 'Photographer';
+    width: 13.5%;
+  }
+
+  89% {
+    content: 'Photographer';
+    width: 12%;
+  }
+
+  90% {
+    content: 'Photographer';
+    width: 10.5%;
+  }
+
+  91% {
+    content: 'Photographer';
+    width: 9%;
+  }
+
+  92% {
+    content: 'Photographer';
+    width: 7.5%;
+  }
+
+  93% {
+    content: 'Photographer';
+    width: 6%;
+  }
+
+  94% {
+    content: 'Photographer';
+    width: 4.5%;
+  }
+
+  95% {
+    content: 'Photographer';
+    width: 3%;
+  }
+
+  96% {
+    content: 'Photographer';
+    width: 1.5%;
+  }
+
+  97% {
+    content: 'Photographer';
+    width: 0%;
+  }
+
+  98% {
+       content: 'Photographer';
+    width: 0%;
+  }
+
+  99% {
+       content: 'Photographer';
+    width: 0%;
+  }
+
+  100% {
+       content: 'Photographer';
+    width: 0%;
+  }
+}
